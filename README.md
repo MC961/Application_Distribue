@@ -1,1 +1,1 @@
-# Application_Distribue
+This project demonstrates how to use JDBC (Java Database Connectivity) to interact with a PostgreSQL 16 database. The application performs CRUD (Create, Read, Update, Delete) operations on a users table within a PostgreSQL database.
